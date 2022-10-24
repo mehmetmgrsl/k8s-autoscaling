@@ -3,7 +3,7 @@
 
 ```minikube addons enable metrics-server```
 
-## Create a K8S cluster using minikube
+## Run and expose php-apache server 
 ```kubectl apply -f https://k8s.io/examples/application/php-apache.yaml```
 
 ## Create a HorizontalPodAutoscaler 
