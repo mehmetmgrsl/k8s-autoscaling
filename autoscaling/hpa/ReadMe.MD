@@ -16,5 +16,4 @@
 ### Resources:
 1. [Horizontal Pod Autoscaling](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)
 2. [HorizontalPodAutoscaler Walkthrough](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale-walkthrough/)
-3. [Autoscaling in Kubernetes - Part 2 | Kubernetes Tutorial
- - Analytics Excellence](https://www.youtube.com/watch?v=qOeeWdavdA0)
+3. [Autoscaling in Kubernetes - Part 2 | Kubernetes Tutorial - Analytics Excellence](https://www.youtube.com/watch?v=qOeeWdavdA0)
